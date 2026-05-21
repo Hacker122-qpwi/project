@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0;scroll-behavior:smooth}body{background:#fff;width:100%}:root{--red:red;--blue:blue;--green:green;--yellow:#ff0;--light:#fff;--black:#000}[flex_center]{align-items:center;display:flex;justify-content:center}[text_left]{text-align:left}[text_center]{text-align:center}[text_justify]{text-align:justify}[text_right]{text-align:right}[gap_10]{gap:10px}
+/*# sourceMappingURL=main.e2e648f2.css.map*/
